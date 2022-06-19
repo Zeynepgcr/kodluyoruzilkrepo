@@ -1,4 +1,4 @@
-# Kodluyruz İlk Repo
+ # Kodluyruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo,İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 ![GORSEL](https://github.com/Zeynepgcr/kodluyoruzilkrepo/tree/main)
 
